@@ -1,0 +1,16 @@
+div.inside ul, div.inside ol {
+	margin-left: 20px;
+}
+
+.postbox {
+	margin: 10px 10px 0 0;	
+}
+
+.postbox#shopp-sendloop-donate {
+	border-color: black;
+	border-width: 2px;
+}
+
+.postbox .hndle {
+    cursor: auto;
+}
